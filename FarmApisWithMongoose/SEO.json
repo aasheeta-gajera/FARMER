@@ -1,0 +1,61 @@
+{
+    "Unit_1": {
+      "Title": "Search Engine Optimization Basics",
+      "Topics": {
+        "1.1": "Search Engine Optimization: Need, Site Architecture",
+        "1.2": "Optimization types: On-page and Off-page",
+        "1.3": "Search Engine Result Page: Query Types and Layout",
+        "1.4": "Search Engine Types: Crawler-based, Human Powered Directories, Meta Search Engine and Hybrid Search Engine",
+        "1.5": "Ranking Factors: Visible On-Page Factors, Invisible On-Page Factors, Time-Based Factors, and External Factors",
+        "1.6": "Black Hat SEO and White Hat SEO: Importance, Techniques Overview"
+      }
+    },
+    "Unit_2": {
+      "Title": "URL Rewriting and Keyword Research",
+      "Topics": {
+        "2.1": "URL Rewriting: Need and Implementation",
+        "2.2": "Redirection Approaches",
+        "2.3": "Keyword Research: Introduction and Importance",
+        "2.4": "Keyword Research Options: Data from Search Engines and Tools",
+        "2.5": "Keyword Research Data Analysis: Criteria"
+      }
+    },
+    "Unit_3": {
+      "Title": "Duplicate Content, SE-Friendly HTML and JavaScript",
+      "Topics": {
+        "3.1": "Duplicate Content: Causes and Effect",
+        "3.2": "Methods to Exclude Duplicate Content",
+        "3.3": "URL Canonicalization: Usage and Implementation",
+        "3.4": "Search Engine-Friendly HTML",
+        "3.5": "Search Engine-Friendly JavaScript"
+      }
+    },
+    "Unit_4": {
+      "Title": "Search Engine-Friendly Content Optimization",
+      "Topics": {
+        "4.1": "Text and Hyperlink: Optimization Tips",
+        "4.2": "Voice Search: Introduction, Optimization Tips",
+        "4.3": "Image Search: Introduction, Optimization Tips",
+        "4.4": "Social Media Optimization: Introduction and Strategies",
+        "4.5": "Video SEO for YouTube: Introduction and Strategies"
+      }
+    },
+    "Unit_5": {
+      "Title": "Mobile and Foreign Language SEO",
+      "Topics": {
+        "5.1": "Mobile App SEO: Need, Deep Linking and Indexing",
+        "5.2": "Foreign Language SEO: Introduction, Need and Tips",
+        "5.3": "Foreign Language Spamming"
+      }
+    },
+    "Unit_6": {
+      "Title": "Tracking Results and Measuring Success",
+      "Topics": {
+        "6.1": "Measuring Search Traffic",
+        "6.2": "Tying SEO to Conversion and ROI",
+        "6.3": "Competitive and Diagnostic Search Metrics",
+        "6.4": "Key Performance Indicators for Long-Tail SEO"
+      }
+    }
+  }
+  
